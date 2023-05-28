@@ -1,0 +1,49 @@
+body{
+    background-color: beige;
+}
+
+.color1{
+    background-color: rgb(147, 118, 224);
+    width: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid black; 
+}
+.color2{
+    background-color: rgb(232, 147, 207);
+    width: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+.color3{
+    background-color: rgb(243, 188, 200);
+    width: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+.color4{
+    background-color: rgb(246, 255, 166);
+    width: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+.color5{
+    background-color: rgb(255, 245, 184);
+    width: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+.colores{
+    display: flex;
+    justify-content: space-between 20px;
+}
+.paleta{
+    font-size: 40px;
+}
